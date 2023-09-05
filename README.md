@@ -32,3 +32,10 @@ Documentation: [github.com/Friend-LGA/LGSideMenuController](https://github.com/F
 
 Install (iOS9+):
 `pod 'LGSideMenuController'`
+
+# ProgressHUD
+ProgressHUD is a HUD tool designed specifically for iOS. It enables seamless presentation of concise alerts or notifications to users of your app in a simple and non-disruptive way.
+Documentation: [https://github.com/relatedcode/ProgressHUD](https://github.com/relatedcode/ProgressHUD)
+
+Install:
+`pod 'ProgressHUD'`
