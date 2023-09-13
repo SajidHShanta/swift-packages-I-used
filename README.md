@@ -46,3 +46,10 @@ Documentation: [https://github.com/WenchaoD/FSCalendar](https://github.com/Wench
 
 Install:
 `pod 'FSCalendar'`
+
+# Toast-Swift
+Toast-Swift is a Swift extension that adds toast notifications to the UIView object class. Most toast notifications can be triggered with a single line of code.
+Documentation: [https://github.com/scalessec/Toast-Swift](https://github.com/scalessec/Toast-Swift)
+
+Install:
+`pod 'Toast-Swift'`
