@@ -62,7 +62,7 @@ Install:
 `pod 'iOSDropDown'`
 
 # Charts
-It's a Swift Library to support Drop Down Menu in iOS. 
+It's a Swift Library to plot 8 different types of charts in iOS. 
 Documentation: [https://github.com/danielgindi/Charts](https://github.com/danielgindi/Charts)
 
 Install:
