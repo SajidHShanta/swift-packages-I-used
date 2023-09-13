@@ -60,3 +60,10 @@ Documentation: [https://github.com/jriosdev/iOSDropDown](https://github.com/jrio
 
 Install:
 `pod 'iOSDropDown'`
+
+# Charts
+It's a Swift Library to support Drop Down Menu in iOS. 
+Documentation: [https://github.com/danielgindi/Charts](https://github.com/danielgindi/Charts)
+
+Install:
+`pod 'DGCharts'`
