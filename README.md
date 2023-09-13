@@ -53,3 +53,10 @@ Documentation: [https://github.com/scalessec/Toast-Swift](https://github.com/sca
 
 Install:
 `pod 'Toast-Swift'`
+
+# iOSDropDown
+It's a Swift Library to support Drop Down Menu in iOS. 
+Documentation: [https://github.com/jriosdev/iOSDropDown](https://github.com/jriosdev/iOSDropDown)
+
+Install:
+`pod 'iOSDropDown'`
