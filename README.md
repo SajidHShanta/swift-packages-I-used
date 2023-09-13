@@ -39,3 +39,10 @@ Documentation: [https://github.com/relatedcode/ProgressHUD](https://github.com/r
 
 Install:
 `pod 'ProgressHUD'`
+
+# FSCalendar
+'FSCalendar' is a fully customizable iOS calendar library. So, its property is fully useful. It is an open-source iOS calendar.
+Documentation: [https://github.com/WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar)
+
+Install:
+`pod 'FSCalendar'`
