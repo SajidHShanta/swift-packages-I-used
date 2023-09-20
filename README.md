@@ -67,3 +67,10 @@ Documentation: [https://github.com/danielgindi/Charts](https://github.com/daniel
 
 Install:
 `pod 'DGCharts'`
+
+# Alamofire
+Alamofire is an HTTP networking library written in Swift.
+Documentation: [https://github.com/Alamofire/Alamofire](https://github.com/Alamofire/Alamofire)
+
+Install:
+`pod 'Alamofire'`
