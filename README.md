@@ -74,3 +74,21 @@ Documentation: [https://github.com/Alamofire/Alamofire](https://github.com/Alamo
 
 Install:
 `pod 'Alamofire'`
+
+## For the Skeleton loading view, we have two packages. 
+* SkeletonView   : advanced and more customizable
+* UIView-Shimmer : simple and easy
+
+# SkeletonView
+Documentation: [https://github.com/Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView)
+
+Install:
+`pod 'SkeletonView'`
+
+# SkeletonView
+Documentation: [https://github.com/omerfarukozturk/UIView-Shimmer](https://github.com/omerfarukozturk/UIView-Shimmer)
+
+Install:
+`pod 'UIView-Shimmer'`
+
+
