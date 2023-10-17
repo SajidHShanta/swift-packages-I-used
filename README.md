@@ -85,7 +85,7 @@ Documentation: [https://github.com/Juanpe/SkeletonView](https://github.com/Juanp
 Install:
 `pod 'SkeletonView'`
 
-# SkeletonView
+# UIView Shimmer
 Documentation: [https://github.com/omerfarukozturk/UIView-Shimmer](https://github.com/omerfarukozturk/UIView-Shimmer)
 
 Install:
