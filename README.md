@@ -1,6 +1,8 @@
 # swift-packages-I-used
 I will track and document the Swift packages I've used in my projects in this repository.
 
+My most used packages: Alamofire, ProgressHUD, Toast-Swift, IQKeyboardManager
+
 # IQKeyboardManager
 Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 
