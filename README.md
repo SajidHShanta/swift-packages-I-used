@@ -77,20 +77,27 @@ Documentation: [https://github.com/Alamofire/Alamofire](https://github.com/Alamo
 Install:
 `pod 'Alamofire'`
 
-## For the Skeleton loading view, we have two packages. 
+# For the Skeleton loading view, we have two packages. 
 * SkeletonView   : advanced and more customizable
 * UIView-Shimmer : simple and easy
 
-# SkeletonView
+## SkeletonView
 Documentation: [https://github.com/Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView)
 
 Install:
 `pod 'SkeletonView'`
 
-# UIView Shimmer
+## UIView Shimmer
 Documentation: [https://github.com/omerfarukozturk/UIView-Shimmer](https://github.com/omerfarukozturk/UIView-Shimmer)
 
 Install:
 `pod 'UIView-Shimmer'`
 
+# AlignedCollectionViewFlowLayout
+collection view layout that gives you control over the horizontal and vertical alignment of the cells. You can use it to align the cells like words in a left- or right-aligned text and you can specify how the cells are vertically aligned within their rows.
+
+Documentation: [https://github.com/mischa-hildebrand/AlignedCollectionViewFlowLayout](https://github.com/mischa-hildebrand/AlignedCollectionViewFlowLayout)
+
+Install:
+`pod 'AlignedCollectionViewFlowLayout'`
 
