@@ -109,3 +109,11 @@ Documentation: [https://github.com/SwiftyJSON/SwiftyJSON](https://github.com/Swi
 Install:
 `pod 'SwiftyJSON'`
 
+# realm-swift
+Realm is a mobile database that runs directly inside phones, tablets or wearables. This holds the source code for the iOS, macOS, tvOS & watchOS versions of Realm Swift.
+
+Documentation: [https://github.com/realm/realm-swift](https://github.com/realm/realm-swift)
+
+Install:
+`pod 'RealmSwift'`
+
