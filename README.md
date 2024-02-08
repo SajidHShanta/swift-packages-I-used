@@ -101,3 +101,11 @@ Documentation: [https://github.com/mischa-hildebrand/AlignedCollectionViewFlowLa
 Install:
 `pod 'AlignedCollectionViewFlowLayout'`
 
+# SwiftyJSON
+SwiftyJSON makes it easy to deal with JSON data in Swift.
+
+Documentation: [https://github.com/SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+
+Install:
+`pod 'SwiftyJSON'`
+
