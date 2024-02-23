@@ -63,6 +63,14 @@ Documentation: [https://github.com/jriosdev/iOSDropDown](https://github.com/jrio
 Install:
 `pod 'iOSDropDown'`
 
+# DropDown
+(better than 'iOSDropDown')
+A Material Design drop down for iOS written in Swift
+Documentation: [https://github.com/AssistoLab/DropDown](https://github.com/AssistoLab/DropDown/)
+
+Install:
+`pod 'DropDown'`
+
 # Charts
 It's a Swift Library to plot 8 different types of charts in iOS. 
 Documentation: [https://github.com/danielgindi/Charts](https://github.com/danielgindi/Charts)
