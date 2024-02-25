@@ -125,3 +125,11 @@ Documentation: [https://github.com/realm/realm-swift](https://github.com/realm/r
 Install:
 `pod 'RealmSwift'`
 
+# SwiftMessages
+Message views and view controllers can be displayed at the top, bottom, or center of the screen, or behind navigation bars and tab bars. There are interactive dismiss gestures including a fun, physics-based one. Multiple background dimming modes. And a lot more!
+
+Documentation: [https://github.com/SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages/)
+
+Install:
+`pod 'SwiftMessages'`
+
