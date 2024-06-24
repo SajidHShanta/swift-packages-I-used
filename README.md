@@ -133,3 +133,9 @@ Documentation: [https://github.com/SwiftKickMobile/SwiftMessages](https://github
 Install:
 `pod 'SwiftMessages'`
 
+# PushTry
+Push Notification testing tool 
+that helps test APNS and GCM online from a browser. 
+
+Link of PushTry: [https://pushtry.com](https://pushtry.com/)
+
