@@ -139,3 +139,11 @@ that helps test APNS and GCM online from a browser.
 
 Link of PushTry: [https://pushtry.com](https://pushtry.com/)
 
+# lottie-ios
+A library for loading Lottie animations and vector graphics in iOS apps. More details about Lottie: [https://lottiefiles.com/](https://lottiefiles.com/) 
+
+Documentation: [https://github.com/airbnb/lottie-ios/](https://github.com/airbnb/lottie-ios/)
+
+Install:
+`pod 'lottie-ios'`
+
